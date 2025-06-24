@@ -47,8 +47,8 @@ python invoice_app.py
 📄 Sample PDF Invoice Output
 
 Vikash Tech Lab
-123 Tech Street, Lucknow, UP - 226001
-Phone: +91-9876543210 | Email: contact@vikashtechlab.in
+Sector 63, Noida, UP - 201307
+Phone: +91-9876543210 | Email: vikashkyadav0803@gmail.com
 
 INVOICE
 
